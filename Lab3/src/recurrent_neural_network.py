@@ -157,7 +157,7 @@ def softmax(x):
     '''Compute softmax values for each sets of scores in x.'''
     return (np.exp(x.transpose()) / np.sum(np.exp(x.transpose()), axis=0)).transpose()
 
-def run_language_model(dataset, max_epochs, hidden_size=100, sequence_length=70, learning_rate=0.2, sample_every=20):
+def run_language_model(dataset, max_epochs, hidden_size=500, sequence_length=70, learning_rate=0.2, sample_every=20):
 
     vocab_size = len(dataset.sorted_chars)
     RNN = RecurrentNeuralNetwork(hidden_size, sequence_length, vocab_size, learning_rate)
