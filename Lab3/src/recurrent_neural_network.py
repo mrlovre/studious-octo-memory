@@ -1,5 +1,9 @@
-import numpy as np
+import os.path
+import pickle
+
 import dataset as ds
+import numpy as np
+
 
 class RecurrentNeuralNetwork:
     def __init__(self, hidden_size, sequence_length, vocab_size, learning_rate):
@@ -19,6 +23,14 @@ class RecurrentNeuralNetwork:
         self.memory_b = np.zeros_like(self.b)
         self.memory_V = np.zeros_like(self.V)
         self.memory_c = np.zeros_like(self.c)
+
+        self.memory_U2 = np.zeros_like(self.U)
+        self.memory_W2 = np.zeros_like(self.W)
+        self.memory_b2 = np.zeros_like(self.b)
+        self.memory_V2 = np.zeros_like(self.V)
+        self.memory_c2 = np.zeros_like(self.c)
+
+        self.time_step = 0
 
     def rnn_step_forward(self, X, h_prev):
         '''
@@ -107,32 +119,68 @@ class RecurrentNeuralNetwork:
         dV = np.tensordot(diff_yhat_y, H, [(0, 1), (0, 1)])
         dc = diff_yhat_y.sum(axis=(0, 1)).reshape(-1, 1)
 
-        #dh = np.clip(dh, -5, 5)  # ?
+        # dh = np.clip(dh, -5, 5)  # ?
         dV = np.clip(dV, -5, 5)
         dc = np.clip(dc, -5, 5)
 
         return loss, dh, dV, dc
 
     def update(self, dU, dW, db, dV, dc):
+        beta1 = 0.9
+        beta2 = 0.999
 
-        self.memory_U += dU ** 2 
-        self.memory_W += dW ** 2 
-        self.memory_b += db ** 2 
-        self.memory_V += dV ** 2 
-        self.memory_c += dc ** 2 
+        dU2 = dU ** 2
+        dW2 = dW ** 2
+        db2 = db ** 2
+        dV2 = dV ** 2
+        dc2 = dc ** 2
+
+        self.time_step += 1
+
+        self.memory_U = beta1 * self.memory_U + (1 - beta1) * dU
+        self.memory_W = beta1 * self.memory_U + (1 - beta1) * dU
+        self.memory_b = beta1 * self.memory_U + (1 - beta1) * dU
+        self.memory_V = beta1 * self.memory_U + (1 - beta1) * dU
+        self.memory_c = beta1 * self.memory_U + (1 - beta1) * dU
+
+        self.memory_U2 = beta2 * self.memory_U2 + (1 - beta2) * dU ** 2
+        self.memory_W2 = beta2 * self.memory_W2 + (1 - beta2) * dW ** 2
+        self.memory_b2 = beta2 * self.memory_b2 + (1 - beta2) * db ** 2
+        self.memory_V2 = beta2 * self.memory_V2 + (1 - beta2) * dV ** 2
+        self.memory_c2 = beta2 * self.memory_c2 + (1 - beta2) * dc ** 2
 
         delta = 1e-7
 
-        self.U -= self.learning_rate * dU / (delta + np.sqrt(self.memory_U))
-        self.W -= self.learning_rate * dW / (delta + np.sqrt(self.memory_W))
-        self.b -= self.learning_rate * db / (delta + np.sqrt(self.memory_b))
-        self.V -= self.learning_rate * dV / (delta + np.sqrt(self.memory_V))
-        self.c -= self.learning_rate * dc / (delta + np.sqrt(self.memory_c))
+        dU /= 1 - beta1 ** self.time_step
+        dW /= 1 - beta1 ** self.time_step
+        db /= 1 - beta1 ** self.time_step
+        dV /= 1 - beta1 ** self.time_step
+        dc /= 1 - beta1 ** self.time_step
+
+        dU2 /= 1 - beta2 ** self.time_step
+        dW2 /= 1 - beta2 ** self.time_step
+        db2 /= 1 - beta2 ** self.time_step
+        dV2 /= 1 - beta2 ** self.time_step
+        dc2 /= 1 - beta2 ** self.time_step
+        
+        self.U -= self.learning_rate * dU / (delta + np.sqrt(dU2))
+        self.W -= self.learning_rate * dW / (delta + np.sqrt(dW2))
+        self.b -= self.learning_rate * db / (delta + np.sqrt(db2))
+        self.V -= self.learning_rate * dV / (delta + np.sqrt(dV2))
+        self.c -= self.learning_rate * dc / (delta + np.sqrt(dc2))
+
+#         self.U -= self.learning_rate * dU / (delta + np.sqrt(self.memory_U))
+#         self.W -= self.learning_rate * dW / (delta + np.sqrt(self.memory_W))
+#         self.b -= self.learning_rate * db / (delta + np.sqrt(self.memory_b))
+#         self.V -= self.learning_rate * dV / (delta + np.sqrt(self.memory_V))
+#         self.c -= self.learning_rate * dc / (delta + np.sqrt(self.memory_c))
 
     def sample(self, seed, n_sample):
-        h0 = np.zeros((1, self.hidden_size))
-        H, _ = self.rnn_forward(seed, h0)
-        h0 = H[-1]
+        if seed is None:
+            h0 = np.random.randn(1, self.hidden_size)
+        else:
+            H, _ = self.rnn_forward(seed, np.zeros((1, self.hidden_size)))
+            h0 = H[-1]
         sample = []
         o = self.output(h0[np.newaxis, :, :])
         y = np.argmax(o)
@@ -143,7 +191,7 @@ class RecurrentNeuralNetwork:
             y = np.argmax(o)
             sample.append(y)
         return sample
-
+    
     def step(self, h_prev, X, Y):
         H, Cache = self.rnn_forward(X, h_prev)
         y = Y.transpose((1, 0, 2))
@@ -157,12 +205,15 @@ def softmax(x):
     '''Compute softmax values for each sets of scores in x.'''
     return (np.exp(x.transpose()) / np.sum(np.exp(x.transpose()), axis=0)).transpose()
 
-def run_language_model(dataset, max_epochs, hidden_size=500, sequence_length=70, learning_rate=0.2, sample_every=20):
+def run_language_model(dataset, max_epochs, save_file, hidden_size=1000, sequence_length=100, learning_rate=1e-2):
 
     vocab_size = len(dataset.sorted_chars)
-    RNN = RecurrentNeuralNetwork(hidden_size, sequence_length, vocab_size, learning_rate)
+    if os.path.isfile(save_file):
+        RNN = pickle.load(save_file)
+    else:
+        RNN = RecurrentNeuralNetwork(hidden_size, sequence_length, vocab_size, learning_rate)
 
-    current_epoch = 0
+    current_epoch = RNN.time_step
     batch = 0
     total_loss = 0
     batch_size = 50
@@ -175,17 +226,18 @@ def run_language_model(dataset, max_epochs, hidden_size=500, sequence_length=70,
 
         if e and batch != 0:
             current_epoch += 1
-            print('epoch: #{}, average loss: {}'.format(current_epoch, total_loss / dataset.size))
-            seed = "have"
+            print('% epoch: #{}, average loss: {}'.format(current_epoch, total_loss / dataset.size))
+#             seed = "have"
 
-            sample = RNN.sample(seed=dataset.to_one_hot(dataset.encode(seed).reshape(1, -1)), n_sample=100)
-            print('sample:\n{}\n'.format(seed + ''.join(dataset.decode(sample))))
+#             sample = RNN.sample(seed=dataset.to_one_hot(dataset.encode(seed).reshape(1, -1)), n_sample=100)
+#             print('sample:\n{}\n'.format(seed + ''.join(dataset.decode(sample))))
 
-            sample = RNN.sample(seed=dataset.to_one_hot(dataset.encode(' ').reshape(1, -1)), n_sample=100)
-            print('random sample:\n{}\n'.format(''.join(dataset.decode(sample))))
+            random_sample = RNN.sample(seed=None, n_sample=1000)
+            print('{}\n'.format(''.join(dataset.decode(random_sample))))
 
             h0 = np.zeros((batch_size, hidden_size))
             total_loss = 0
+            pickle.dump(RNN, save_file)
 
         X_oh = dataset.to_one_hot(X)
         Y_oh = dataset.to_one_hot(Y)

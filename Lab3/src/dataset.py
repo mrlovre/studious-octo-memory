@@ -33,7 +33,8 @@ class Dataset:
         self.size = num_batches * batch_size * sequence_length
 
         input_output_pairs = np.array(list(zip(self.ids[:-1], self.ids[1:])))
-
+        
+        print('using {} out of {} characters'.format(num_batches * batch_size * sequence_length, len(input_output_pairs)))
         input_output_pairs = input_output_pairs[:num_batches * batch_size * sequence_length]
         input_output_pairs = np.reshape(input_output_pairs, (batch_size, -1, 2))
 
