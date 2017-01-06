@@ -31,6 +31,7 @@ class RecurrentNeuralNetwork:
         self.memory_c2 = np.zeros_like(self.c)
 
         self.time_step = 0
+        self.current_epoch = 0
 
     def rnn_step_forward(self, X, h_prev):
         '''
@@ -162,7 +163,7 @@ class RecurrentNeuralNetwork:
         db2 /= 1 - beta2 ** self.time_step
         dV2 /= 1 - beta2 ** self.time_step
         dc2 /= 1 - beta2 ** self.time_step
-        
+
         self.U -= self.learning_rate * dU / (delta + np.sqrt(dU2))
         self.W -= self.learning_rate * dW / (delta + np.sqrt(dW2))
         self.b -= self.learning_rate * db / (delta + np.sqrt(db2))
@@ -191,7 +192,7 @@ class RecurrentNeuralNetwork:
             y = np.argmax(o)
             sample.append(y)
         return sample
-    
+
     def step(self, h_prev, X, Y):
         H, Cache = self.rnn_forward(X, h_prev)
         y = Y.transpose((1, 0, 2))
@@ -205,15 +206,16 @@ def softmax(x):
     '''Compute softmax values for each sets of scores in x.'''
     return (np.exp(x.transpose()) / np.sum(np.exp(x.transpose()), axis=0)).transpose()
 
-def run_language_model(dataset, max_epochs, save_file, hidden_size=1000, sequence_length=100, learning_rate=1e-2):
+def run_language_model(dataset, max_epochs, save_file, hidden_size=500, sequence_length=100, learning_rate=1e-3):
 
     vocab_size = len(dataset.sorted_chars)
     if os.path.isfile(save_file):
-        RNN = pickle.load(save_file)
+        file = open(save_file, 'rb')
+        RNN = pickle.load(file)
+        file.close()
     else:
         RNN = RecurrentNeuralNetwork(hidden_size, sequence_length, vocab_size, learning_rate)
 
-    current_epoch = RNN.time_step
     batch = 0
     total_loss = 0
     batch_size = 50
@@ -221,12 +223,12 @@ def run_language_model(dataset, max_epochs, save_file, hidden_size=1000, sequenc
     h0 = np.zeros((batch_size, hidden_size))
 
     minibatches_iterator = ds.minibatches_iterator(dataset.create_minibatches(batch_size, sequence_length))
-    while current_epoch < max_epochs:
+    while RNN.current_epoch < max_epochs:
         e, X, Y = next(minibatches_iterator)
 
         if e and batch != 0:
-            current_epoch += 1
-            print('% epoch: #{}, average loss: {}'.format(current_epoch, total_loss / dataset.size))
+            RNN.current_epoch += 1
+            print('% epoch: #{}, average loss: {}'.format(RNN.current_epoch, total_loss / dataset.size))
 #             seed = "have"
 
 #             sample = RNN.sample(seed=dataset.to_one_hot(dataset.encode(seed).reshape(1, -1)), n_sample=100)
@@ -237,7 +239,10 @@ def run_language_model(dataset, max_epochs, save_file, hidden_size=1000, sequenc
 
             h0 = np.zeros((batch_size, hidden_size))
             total_loss = 0
-            pickle.dump(RNN, save_file)
+
+            file = open(save_file, 'wb')
+            pickle.dump(RNN, file)
+            file.close()
 
         X_oh = dataset.to_one_hot(X)
         Y_oh = dataset.to_one_hot(Y)
