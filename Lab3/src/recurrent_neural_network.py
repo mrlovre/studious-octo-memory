@@ -206,7 +206,7 @@ def softmax(x):
     '''Compute softmax values for each sets of scores in x.'''
     return (np.exp(x.transpose()) / np.sum(np.exp(x.transpose()), axis=0)).transpose()
 
-def run_language_model(dataset, max_epochs, save_file, hidden_size=500, sequence_length=100, learning_rate=1e-3):
+def run_language_model(dataset, max_epochs, save_file, hidden_size=800, sequence_length=30, learning_rate=1e-3):
 
     vocab_size = len(dataset.sorted_chars)
     if os.path.isfile(save_file):
@@ -218,7 +218,7 @@ def run_language_model(dataset, max_epochs, save_file, hidden_size=500, sequence
 
     batch = 0
     total_loss = 0
-    batch_size = 50
+    batch_size = 48
 
     h0 = np.zeros((batch_size, hidden_size))
 

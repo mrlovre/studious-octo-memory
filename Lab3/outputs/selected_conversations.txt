@@ -1,0 +1,633 @@
+% epoch: #1, average loss: 3.1293462505208307
+eeo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+% epoch: #2, average loss: 2.2485487870396743
+
+KE:E:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+
+% epoch: #3, average loss: 2.100438781172179
+ n t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+% epoch: #4, average loss: 2.0345545372626535
+v.  t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+% epoch: #5, average loss: 1.975457674726297
+ve to       e        i    e   o    e   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   io   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   io   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   io   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   ie   o   oe   o   oe   o   o    o   o    o   o    o   o    o   o   io   o   ie   o   ie 
+
+% epoch: #6, average loss: 1.9131860764174569
+M: TOAEATE::TOMETE:TTTETETETTTTTTETETTTTTTTTETTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+
+% epoch: #7, average loss: 1.8516606233211228
+nd?. TANA:::
+  t to   et  tot  io   on   it   ot  ot    t   ot   t   ot  iot   o   ot   ot  oo   ot   ot  ot   ot   ot   t   ot   ot   t   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot   o   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   ot  ot   ot   o   ot   
+
+% epoch: #8, average loss: 1.7923704171271173
+M:
+REAT:
+MO  OEETTEMMAMARATEAMAMAMATETEAMAMATETETEMMMMMARAREAMAMAMATETEAMAMATETEAMAMATETEAMEMMMMARETEAMAMARETEAMARETEAREREMEARARETEAMARETEARAREREARAREREARAREREAREREREEEEREREEEEREREEREREREEREREREEREREREEREREREEREREREEREREREEREREREEREREREEREREREEREREREEREREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREREEREREREEREREREEREREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREREEREREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREEEEEEREEEEREREEEEREREEEEREREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREREEEEREREEEEREEEEEEREEEEREREEEEREREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREREEEEREEEEEEREEEEEEREEEEEEREEEEEEREEEEREREEEEREEEEEEREEEEEEREEEEEEREE
+
+% epoch: #9, average loss: 1.7381348142532762
+yn:
+Tud I:l aeI IOO TOOEATOROTEAOT TORTTEATTTOTETOATTTOTETOAOTTTATTTOOTTTATTTOATTTATATOTOTOATATOAOTTAATTTAATTAATTTATATOATTTATOTOAETTATATAAOTTTAATTAATTTATATATATTATATATOTOARATOAATTAOTTTAATTAATTTATTTAATTTATATOAATTATATATOTTAAATAAATTTATTTAATTTATATATATAATATATOTAAATTATATATOTTTAATTTATTTATTTAATTTATATAAATTATATATOTATAATATATATATTTAATTTATATAATTTATATATOTAAAATATATATOTTTAATATATTTAATTTATATATATAATATATATATATTATATATOTTTAATATATATATTTTATATATATAATTTATATATOTTATATATOTATAATATATATATTTAATATATATAATTTATATATOTTATATATATATAATATATATATTTTATATATATAATATATATATOTTATATATOTATAATATATATATTTTATATATATAATATOTATATTTTATATOTOTTATATATOTATAATATATOTATTTTATATOTOTAATATATATATTTTATATOTOTTATATATOTOTAATATOTOTOTTATATATOTOTAATATOTOTOTTATATATOTOTTATATATOTOTTATATOTOTOATATATATOTOTTATATOTOTAATATATOTOTOATATATOTOTTATATATOTOTAATATOTOTOTTATATOTOTOTTATATOTOTOTTATATOTOTOATATATOTOTOTTATATOTOTOATATATOTOTOATATOTOTOTTATATOTOTOTTATATOTOTOTTATATOTOTOTTATATOTOTOATATATOTOTOATATATOTOTOATATATOTOTOATATOTOTOTTATATOTOTOTTATATOTOTOTTATATOTOTOTTATATOTOTOTTATATOTOTOATATA
+
+% epoch: #10, average loss: 1.6901963526766777
+RELAN:ATOMATATOOMATA OO T OOD IOT  OOD IOO  OON  OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OOND OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OON  OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON IOOD MOND OON IOO  OON  OOD IOT  OON YOOD MOND OON IOOD OOND OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OOND OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OOND OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON IOOD MOND OON IOO  OON  OOD IOT  OON YOOD IOND OON IOOD OOND OOD IOO  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OOND OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OOND OOD IOT  OON YOOD IOTD OON IOOD MOND OOD IOO  OON YOOD IOTD OON YOOD MOND OON IOO  OON  OOD IOT  OON YOOD IOTD OON IOOD OOND OOD IOO  OON YOOD IOTD OON IOOD MOND OOD IOO  OON
+
+% epoch: #11, average loss: 1.6481431591919518
+u  IOLEN::TOOE OOOT IOO TOODT OOD IOO  OOD TOOD IODT IOD IOO, IONT IOD IOOD ION  OOD IOO, IORT OOD IOO, IONT OOD IOO, IONT OOD IOO, IOR  OOD IOO, IONT OOD IOO, IONT OOD IOO, IOR  OOD IOO, IORT OOD IOO, ION  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, ION  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, IOR  OOD IOO, I
+
+% epoch: #12, average loss: 1.6129783816039236
+hy ar  tot  io   ot  aot. aons ae  .ot sele. oo s an  ie   ote lee.. .ot yen  ane alet lon. .e...
+oo  ane sess oot  te. aot  aot   e . ae siel. .o seee  not  aot aele lie. .oo  ye .  ot eels aiet on  oot  iod. 
+ou  oos  ie  ane  oo. aodi al..
+
+ou   in seet oit  aot. ee. 
+IOd Ion  ere oles len. ..  ole  le  tot  ie. 
+oot yot.  ot yoo.  ot lane. aot  on  iee   ot lone ale aite oot.  oo   e   ee  iot. aot lels aie  ite  ite. aot  en. aee  ae.  oo   le.  ot sele aie  one  oe.  oo   et. sets ae. .oot yen.  oo eyot aiet  at  ie  .ate  on.  on seet ale  itt oon.  oo   et. aot  oo.. ao   an. sets ais  io .one. 
+oo  ole  se  aot  in.  oot ler.  oot yen. .t.  ot  eet  io  .ot  an..  ol  ane ses  oot oini. aod yen.  oe see...
+o s aie sese ooesone  aot  ait   e   ot   ot  ot   io.  ot   on lece ale  ote ooe  aot  aot yen. alt yies aot  aie  ....
+oo  yon. aot reet lie  .oo  ee ..te  iod. .o  ite.  ot y s . len   io  yen lise aoos lisi io..
+
+om  are set.  ot lete aie  iot ree....on yen. .o  ooe. aot 
+
+% epoch: #13, average loss: 1.5841078455902953
+RC:
+SonN OER OOND OOTT OOTE TORE TETE TERE AETE TORE TOTE TORETTYOE TERE TETT TERE TETTETETEETETETTETTERETEETEETETEETERETTETTETETEETETTETEETETETTETEETETTETETTETEETETETTERETTETTERETEETTREETETTERETTETTETETEETEREETEETETETTETEETETEETETEETETTETEETETETTETTETETEETEREETETTERETEETTETETETTERETEETTERETEETEREETEETERETTETTETEREETETTERETTETEETETETTEREETETTETETEETETTERETTETTRTETETTERETEETTETETEETEREETEETETETTETEETEREETETTERETTETEETETETTETEETETTETETEETETTERETEETTRTETETTERETEETTETETEETEREETEETETETTETEETEREETETTERETEETEETETETTERETTETTETETETTETTERETTETERTETETTERETEETTETETETTEREEEETTETETEETEETEREETETTETETEETEEEETETTETETEETEETETEETETTERETEETTETETETTERETEETTERETETTEREETEETERETEETTETEREETEREERETTETEREETETTEREETETTETETETTETEERETTETEETETETTERETTETTETETETTEREETETTETETTETEETEREETETEETETEETEREETETTETETEETTETETEETETTERETEETTREETETTERETEETTETETETTERETTEETETETTETEETEREETETEERETEETEETETETTERETEETTETETETTEREETETTETETTETEETEREETETEETETEETEREETETTETETEETEETETETTETEERETEETEREETETTERETEETTETETEETERETEETTETETEETETETREETETTE
+
+% epoch: #14, average loss: 1.5585050305003367
+UR  hole one aile  lote  in  one  lot  oe . lo  yon yioe  iot  ite  
+ot yon  ioe   ot  ao aell  oot rile  io   oete ise oot tole.  ot tes  aite yo . lon ..
+.  ote ale alle  oot  is   ot  ile. ao  aide ole  ooe  ao   or  ole  .one  it aine  iot  ton. aon  ioe   or tole  oo   oo  oone  oot  ore. lot  os  ine.  on  oo . .e  yole asse  on   one  or tele aies.  o teane sote aot  one.  or  ose  oo tile. lote  io sine.  ot tone aie  ooe  ao   or  oose  one  ote  ot  ior. aot  ite  it  iote  or  ine. ao  toee io  tore aios.  ot e sise os  oote aite  oo  ele  ione aitepise  ioe. aot aise  ion. oon  ioe  ir .ioe.  or tone  io  oon.  ot  ite  oon aore  ot   ot.  on  oor.  on aine  iose oot  aot  ise  oo  oot   on  sor aioe  oot  oo   ot  oo eooe ...
+ Iot   se  oned lone. aoteete   ot  io..  oo  ose  oos oos . oo  ees  oot oone  oot  on  ine aore  in   ot  iot  iot.  ot yone ooe.  ot ton  ioee iot  aot. aot yone  ot   ot  iote aor  ooe  aot  ore. lon  oo  oole  on.  oot  ou  io  aole  one  ose  ot 
+
+% epoch: #15, average loss: 1.5370597727085356
+oy  I se tet  ite oitt ioe   ortet en  oet  ine.  oule ood  itt oite  ote fors  ont tert aine  io e tent oot  ole  io eooe . oo  ome.  otl  ee.  oume iens oote ott pite  ite. ool  ted  oo   otd. .ou . aone aid  ott  ite .ooe.  ol  tone. ahll aine oote oot  itt .ite  ion  iol. 
+ous iones io pite  ite  oo   oet yote oole aote itr  iot  iots to s oe  out  to s oen..... OUE:
+
+on tere aite aite att  oone fo s oe  .ote. .  oote teo. aoos. .is  tone sine  ool  tons oote tene.  ole  ine oote oot  it  oft tien.  oo   oes ione oone.  oll  in  oote yie  ooo   ots  oul  aine oot  ot tole tild  . fe t ost sile aute ioe   on tome  ioe  oen.  ool  iet  oott ot   ot  ite  ite  oot  ools aone oist  oo  ioe.  oo e les  oot oot  ione.  rol oie.  ool  oo s oote oon  ont sioe aite. ane toss  oo  oo s  ine aone aoon oon.  one  ons oone aot  ione  ons  ond oo e ie  .ooo. 
+es  oone.  ool  iets ione oo site to d  . . otom  oe. .
+
+oe . Ioll hel  ir  iote ite   oo toee  iote  an  ooles ione  iet  aote  one  oo  o
+
+% epoch: #16, average loss: 1.5199495973471417
+Ril ..
+LuOAN:
+Th   ale siteries. 
+
+uAL:
+AROMENOO  OOR OOGGOO GOO GOR EOO GOOEE OO O  O GO EO  OOO MOREOO  OO GOR OOO  OOG OO GOR GOO GOO  OON OOOGOOOGOR GOO  OON OOOGOOOGEO GEO  OON OONGOO GOO GOO  OONGOOOGOOOGEO  OO  OON OO GOO GOO, OO  OONGOOOGEOOGEO  OOR OOR OORGOR GOO GOO GOON OOOGOOOGEO  OO  OON OORGOO GOO GOON OOG OOR  EO EO EOOO GOREOOO OOO EOOGOOO OORGOOO EO GOO  OO GOO GOOOGOO  OO  OO  OOOGOOOGOO GOO  OON OOOGOOOGEO GOOO OOR OORGOOOGOO GOO  OO  OOOG OO EOO GOO GOR GOR  OO  OO GOR GOO  OO  OO  OO GOO GOO  OOO OO  OO GOO GOOO OOOGOO GOO GOO  OOO OOO OOOGEOOGOO  OOR OOR OO  OO GOO GOO  OOR  OO EOO GOOOGOO GOO  OO  OO GOOOGOO  EO  OO EOO GOO GOO  OO  OO  OO GOO GOO  OORGOOOGOO GOO  OOR OOR OOOGOO GOO GOO GOOOG OO  OO GOO GOO GOOO OO  OO GOOOGOO  OO  OO  OOOGOO GOO  OO  OON OO GOO GOO  OO  OON OOOGOO GOO GOO  OOR OORGOO GOO  OO  OOR OOOGEO GEO  OOR GOR OOO OO GOO  OO  OO GOOOGOO GOO  OON OON OOOGOO GOO  OON OORGOOOGEO GOO  OON OORGOOOGEO GOO  OON OORGOOOGEOO GO  GOR OOR  OO EOO GO G
+
+% epoch: #17, average loss: 1.5046040899584456
+y:
+
+ole ale  isessin tite e  o t one  at aelt oiter  aim  se sioted in teliea it teli dine aoter tienin te teve  io  one  lote  ool altealip   one  se  inted it oitt  it oite out ofeter. aot ant  iot oottened rottones aite...
+o teite sied on thide  it setistin  ilote in  on tolee  t  oote.a..  ooteetse toce siee e  te  in tile.  oot yone  lolpynie. 
+ot tice aite eie sit  ile oit antt  in tiliee s  ... oK  . W wole ase siste  tone ale  ot   ot tile  ine oot one  oot of t ole aoter ine .  ooteetse set  aie  it ailedaie  illee ses ined  ooteyiss onen lite tol etit  ot  oo  site oot p is  iot oited in t tiea oete aie intise e si t s at  ete sut  nen  otteain  itt din  ootteled  oo  etea int o t sn tilesale ont aolsssite...
+IOEL:
+Sur sale ale  sale  ot rile  iot oded int elite  ene aleprine  io telisiles  oone ait  set onteoiid d.n.i. .o moresale. 
+oole tie sils oitedist oited ie sodios d rot  ine  sote. ie treseotie o. turt oot ootiriine   o  elte ile oili ssies ten  oo eide  in solite ain 
+
+% epoch: #18, average loss: 1.4916626758190574
+mesenel  os. 
+olu  ot  oome  lin  ole aile sos .  il welte iel  .. useliss sols  is a.ise. ses. 
+Hon  ous sirs  tse oite.  ot   io s os. 
+oll  ite oio  iole toll oile muts allpe  is wols ss. aone...
+UR  Hon aoll aile ais liss sose  oon.  ot s is  sess sine ooo  ios   in  itlt  .in  oot  sise ois oose.  on   iess sss bote  ilu  olm aite ists its   on  oit  sil  oise  oo   oo.  
+on  ooo. bolo iole  ot   or  aote ais . 
+on torser as sone  is  ..io als...
+INAM:
+So, sall arld  st lite sime  ote  at   ose sol   it   les iose. .ol  too e io s oos  
+
+URRAE:
+Ioll ael  aite ase sise soo   ol  ois  mols  ill  iss hiss aiop  
+in aelted is aone. sos..
+
+AO  ITR:
+E TOOG TER  OOT  IORE GOT IOO DOO IOR IE  I R IE   TO DONG TO  DOT IER  NO D WE DIN  OOT IEO SOR DOR   E   OO D IO DOR GON Y O T I  D TO E GR EO E O T WO GON IOE   OO H GOTE  O EED  O TOD  O T WE DON  WET  OO D GO EOO GOND WO D MOT  OO EOT DO E WONE TO E WOTE IO D TO E TE TONE TIT IER I T DER H R IER IOR IER I R IER  TR D IE DIT  HOR  IOTD OO
+
+% epoch: #19, average loss: 1.4809079419000037
+..Hen  ten aele aie.  
+URAN::
+Iell rest oite inetriss. 
+ELAUE:
+Tome ald  st   ino..
+
+MONDY:
+Toll aite ise site.  oe  ou  sine yine  .onty  .ine.  on   oet ienele e.  orseoles .
+
+Lus ion oore as stite  in e ns ssa ...
+
+ute aels ss tools .
+
+MONEE:
+Thre alleee si. .
+xE  Bol  on  are sis  sooserls. ..
+
+LENE:
+Oetlaaisns  ane or aire iose. Won yolesties.  ot  irlesios  ion.  ile ile sose..
+
+OREE:
+Tom  art  ise sits  aon  Iet aie  aise ie tuali  ie .  ute   nom  on some sin  sooteyls. .I    aon  on   at  its...
+
+LRIE:
+AOm  oute yise aits outerine.
+
+EANDA::Ton selise .is t ese.  on y.u  tre  tes  or  snep. 
+AU I Brn e sice ol ..
+
+ome .inee.  on eat oid ...
+
+LUME:
+Aem y lite ai  riser.  An'   ned iot dol. 
+
+m  IET IOn you tale tome aetalele? 
+
+URANK::
+Ohly side ine   .us  oule iet sote  ion.  Iun yon tere  ies. ..thore..
+
+Au  you tone arme iet res...
+
+LANAY:
+Thly ardesist .
+
+JORA::
+Ohle arm yisi? 
+SUNDE:
+Tell art yiles  ote  .oK you  aite ale tote isstrole. donsine. .oKm tolsesies...
+
+OOEE:
+Iute
+
+% epoch: #20, average loss: 1.470372141247124
+t. AI G::
+TORD  OO  HO D MO DO E TOR  TOT  HOT  WOK  WOS  HO  MOM  MOD  OO,, WOT  WOW  OO  IOO, GOO  HOO, WOK  WOK  WOK  WO   OO   OO  IOO  LOO  WO , IOT  OO, MOO  LOM  WO   WO  YOO  YOU DOO  MOM  WOM  OO, MOM  MOM IOO  IOM  GOO  WON  WOTT YOW TOO SOOG TIO  IOM  WOO  YOO  YOW  OO  IOM  WOO  YOO, MOO  WOO, WOO  WO   OO  IOG DOO  IOG  WOT  WOK, MOK  OO   OO  OO  MOO  IOT  HOO, WOK, MOK TOM  MOM IOOD  OO  YOO  YOU  YO  YOM  YOO  OO, YOO  YOO  YOO  WOK  WOK YOM  OOM TOO, MOO  LOM  WO,  OO   OO, YOU  OO  TOO  IOO  MOO, WOK, IOK  OOT MOM  OOD  HON  WOTD WOO  OO  YOU  LOO GOO   OO  YOO  TOM, WOK  TOK TOME MOM  LOD  OO, MOM  LOU  WOO, OOT  WOO, YOO YWOO, OOO GOM, MOT IOO  OOO TOO  TOR  HON  WOTT MOK  OO  YOM, MOM  WOK  WOK  WO   OO  OOG  MO  YOO, WOU  LOS  WOK  HOT TOM, WOM  TOD  OO, YOM, MOM  LOD  OO  IOM  OOO  HON, WOT  WOK  OOO YOO, MOM  TOD, OOT  OO, MOM IOO  IOO  MOO  HOO, MOK  IOK  OO  IOM  MOO YOO, MOT IOOD, OOT YOM, MOT IOO  MOO  MOT  OO   OO TI G MOR IOOL IOR IOO  IOO  MOO  YO,, MOS  W
+
+% epoch: #21, average loss: 1.4612933192845439
+se to s se  tele ais a. areet it. 
+ot aoce outerine . t a fot  in  oone  is aone aie. ..one ies  ioor  int o ttton.  ite. itt.
+
+ERK EET
+NRES MOMG IOM ITOR  OOS  WOR  WOD  OOM, MOT  OOT  WOTG MOT  OOT, WOET IOT YOL SANDO WOT  TE  ON SHE TI DOM  A OO WOTL MOM  OOD  WOT  OONG MAT  HET, WOE  IOT IAO , WAT, OO  MOO TOW TIO, IO SI D  O TOMG TOT  IOT  WOTG MOR  OES  IOL  OOM  OO, MOM, IARO OOS, WOT  MOT  WOT, METG OLE  IO   WOT  MOT  OT  IOO  OL  IOG  MOT  OET  I SO OAN  OED  OOT, MON IOO   WOL  WAT  OON  WOT, WOT  WOT, WOT, MOT, WOT, WOTT MOT  OO   WOD  OON  OO, WOM   OO  IO , EON GOM, WORD  OOT  OT, WOND  OOT  OON YOR, WORS OO,  OO, IATS OON  OOT  WOT, MOT  WOT, WOTG MOT  WOT, MOT  OOT, WOEG IOT  OO G WED  OON WO GO WOT  AO  TOE OIE TIL OI DON IO D WO  IOE   WO  OT TO GO GOT TO , WO TOR TOERO O TO DOM  OOE AI GOT YOO  WI GOM GOTL WO   WOT, MAN  OED IOOS WOT, IOTE WOTG WOT, MOT  WOT, WOTG WOT, WOT, WOTG MOT  WOM, WOET IOT YOO SAEDOI  TI TO  ITELO WO O DONO TOTO EOO  O LOM IAODO OO  IL  I WO  
+
+% epoch: #22, average loss: 1.4527810753744712
+: .olueker.   ll  ttt oide??io..  oot aime ait. ies aift anot .  f  ale a   anot aoteeals  ...ie . .ull tent nits .. .ol  thine sot  ote  as. . t aties aose tise  oo gets tile .or  one sise  ao   foin  sene.. Sot yol aanee  as  one  .ome air  aios  oo  to   if  ioa t at rolsa..
+
+ROKK:
+Ih lace  is airer? 
+JIf Y::De cer yom yor? 
+HANE:E:
+De  tole  .ant eat a?
+
+MELDO:
+Tute tite aot aidet ost anese sine  nout aor e.t.....EOKENE:
+Aull art  se. ...
+
+OAE:
+Oi  act  tom. airee. 
+MMANE:
+Oull yot  ire toos a se .es .  oe  eet tite  oot. .ion ane. as..  hon yone alone. oon  oite . on  trres. .o  aene s s.
+
+IANE ::
+kell p ites.  ot aite yose? 
+oOR  Y:
+YOO  YOU TAN TTE TOL SAL STE THL TTR STT STE TTT IOL ION TOR IT  SEL STE TAN STT ITE IOL IOR IAE THI TTL STLI TTEE IO GOL STORT TOL  OO TOR SAN SET STE ION TON THE THE TOF STT IT  OOL TOR TER TTE TOL STER TTE L E TEL IEO E TIT I MO  I OOD TON TER SER ITL TTR STT  T R TWR SIE TET TTE SER SAT EAE TOL STEESTE TOT STT I E TOL IER IER SAE TU  TOR STT STT TA
+
+% epoch: #23, average loss: 1.4444912279310087
+F.. ITO Hon  hle rias. 
+LADE :
+TOR  UOT HOTG MOT TOM  WOOTHWE CI GE E EOT TOM  ORE HRE DIM SER  A M  O  EOTE OI GOR  DIE TI GE WO GOLE MIT TOM  WOTT WE  IO  TOR ET E  E  OOT  EE  TO G TE TH EO T TET TO T  O TE EE T E TIT E TE E MIT   O TO  E TETE MO  O E GOTTE COLE MOT IOM  OWET WE TOR EOT  O EO E TE TO TE EOLG MOT TOR SOR  TER AW  TORE MIE  WE THE E MOT   MO TOR DTEO EOTE TETT OOO TOT  EO  OOE  O  T WO D TE EOT  OO T OE  OOT  WO T RE MIE HI G GOD IOR  OWE WOE  OO D WE G E T TO   TODE YOU TOR  TOO DOR  MED  WE GOE E TO TO G TOE TOR  U E TIE CI G TOE TOR  MRE HI  EDR TOW TERE DOE  HE EOT GOWE OOG DOE  MO T MO TH EO I TO  M E  EE MOTT MO  TOR  ER   WE OOT  OO  WIEG  OI HOR  ORE  IE DEL  TOR DOR  MEE  IE TAR SORI DOE DOT  IO E O E OOTT TO  T EO  EOTTE O TOGED EO T EOG GOM  O  H T TE OOT  OET MOT TOR  O ET IE DOT SOMM TO   TEO GOTE MO T OO TI GETEE TO G GOTT OOT TOR  GOE HTEO H EE GOTT TOI HOM  ORG T E GOT E M EO  E TI E MOT I MOTE MUT TOR  LOET GOTT YOM HO G TOO HOM  WOTT WE TI GOT MER  O 
+
+% epoch: #24, average loss: 1.4398642150178544
+huTi .  oo  eile s se? 
+YIND :
+COu S HOR  MO  TOR  OA  OOE OOD  OK, OOU TATSS ROS MOM  TOM  TOT IOM  OO  MOR SARE  ME S ER  TOR IOR TAME OO  MODD  OM  AAE IOM  TOU MAR SEO   MO   OME OO  DOR  OO   OON IOR  TE  AOR  OO, OOM  OR   OR  MO! IOOD HOR  OOT IO  SOD  OO  HOR  OO, MO! YOM  OO  MOR  OO, AOR  OME OO, WOR  OES OOE  OO, MOR  HAT  HOD  AR  OES MOE THE S MO! WOM GOO  OO   OR  OO, IOK  OO  OOR  OO, MOR  HOM  OOR  ORE WOR  AOD IOR TOE TOMS OOE TOWSTORM  OOT MOR  AR  HOR MAG S O   MOR TOR  OOE  OA TONS  OO  IO!  OO  MOR IOE  HERO GOM  AO! IOR AOE TH M  MO! MO! YOOD OOM MOM  OED IAR  TOE TOR  OOS  EOO GOR  WOM IERSATER MOM TATD ERM MO!  OOT  GOD  OO, IOR  OO  OOR AOR  OOO MO! YOO  IO, TOR  OOO IOR SORD OOE SOR  OOM  AO, HOR  OA  OO  AOR TOR, ORO  ORA WO! WOED  EO  WO! YOO  OO  OOS  OR  OO  OOO TOR  OO, AOR  OR  OO, MOR YOM  OOM  OO, OOR  HAT  HOT  AOO IAM S RE OOE  !OR MO! YOR  OO  OO  OOR  MOT IOM OOEE OO  WOR  OO T MO! IO! GOR  OO, AOR  OO, MOR AOM  OO, TOR S ESTME  OOO TOEST OMA GOR  O
+
+% epoch: #25, average loss: 1.4341689073197943
+Iens isslo seds aise. setseasess sss s seesses.  ooms ss ssite   sn elss stenss ssss sssse sist sisness oses  ssse. Poneessanes sons  secss ies sstesss s. ness ssess sons.sisse soosss s.s.ors  sosks'sssss  sss sasss s isksssssessessesss suses .osesssons. aile tise  sre leds.  ot soleans ps  sese  aid  sinctssss sone slssesssessete!  oht sessense.  ouna iess.ssess asseecess  sess sissssssne.  ouce tess asen  ise siess sses siss.  onet aised ai  iases oise  ssparise ssine  sest ssess oinsesses.  ou  hise aise  ond ooseansss.
+
+oo ters ass sss.s.a stens ssese. 
+onc  lsses yot wsile  is  ssessssss. 
+Wut y't lidees ste.  iss sssterees  ooner ssens  oests oss   secsssse.  ouness sss ssine sileess. aoess.. 
+oANI jon sile ast ootipssse  sensesses.. 
+ovkystonesise too ysn. .sie s sonesss ...
+
+ANDEL::
+Tint aese? tom  hiserys amer  sese sosesssises sone sseses iesss sess ssens.  ous  issense  sens. soscesiss. 
+
+oot sirsssess   sts siss  seses sornestes oes ssseens.
+
+SAREY:
+Nust aise   ion..
+
+IEETE:
+
+% epoch: #26, average loss: 1.4282105466991333
+d Yet. al  areeed tids. sot  usterist finteslins. assesaies  a ouces  on tonees iotienet oo s aiterees. ouct.u.seing e setilues  alee lse  auce  alte  ate  oue siaped de  iles sisn yise   ote.  ot . wele  is tend neve  fot  oreed entee het saeper iarne  aut. lese  au trres. sunt wese test selie sent line  estenicels foleerelea s. mone oiees ason   iospelses oooner.s ine solses  fane  ine  itcedele.  oue siler  ses  outerile .  fonese tene d eet anenerestlose.  oncelles is  eneesiens. oucteress. . ne eele  sees ie ourer. ain.. Tonceds sise  itteele sooner late  ere.  ote sese  ifteerelales.  uunte.ses  oous d ie  id ee tern ain selfer. bunee sesien int  ooted anoner  aone.  oon seleer e s oueeine s  ioter  useerses onot dalee  iens  aute  sse  tiresss  anetere s s. wosesesess foseer ielpelese e s onde sster astsealeus  sone.  ooss lecepais  tte  ane sese sues  sune  . see ioner sesseleess auceerepse amss ared  ost anoned  ast  llper in cedses oeve asene  auct lisn sose sits  sooseds sen.
+
+% epoch: #27, average loss: 1.4242685027198076
+e ture siase  att  iitasie. .
+
+YADA:
+Uh, sole sin  a ue y.  you. Anl sins, io a,  e, .. onfane ss nes..ie... nt  eres  tot  oite y....iook sess   ond ines  ootasies  out.  ne  iine, set,.iy.. 
+ntm, y s andeas s are.  on a resi. ... Io   ole, set lel  rot rinee, 
+olk  ill  sit  ysleraa....
+AONAI:
+Sure sess ioma .  of yesil yola .
+
+IONNE:
+Ture is . I can  ire yised  see. . Se. 
+in yonessla.. 
+LAADE:OO Siy  ait sese? 
+oVf  ie  ainteriss   alt siss ysu..
+
+oOk iethsiled  Ylle yose  ele sitedies .. Iom.  on   sesarese oi...
+
+ONAT:
+Sune iole   tll sies ..mes  eny, shty,.aie, sule. yelaaiel .  LOk sill  il ain t ine  anta ile  . aus otilsr ....
+IAAD:
+Benalilet   an  yols ron, iot yode aole  aitcail.  Aol   yss.  ole  isl  ietarite  ..
+IOk  . nearn ssrer yen.  ne  ios.  
+on sioled  .... ntessels. .anon.  otls itt aiesele...
+
+LANAA:
+Tor  ist rited   utme ineseised ason.riness anlp, 
+olc  yesi  ien releery. ...mastirlla.... ooth mess.a s. Ano  yel, ss yon  an  auta a m.  Iot yose wirs yes..
+
+MORDE
+
+% epoch: #28, average loss: 1.4216802891047913
+ sed eine. sseed misiene.  
+one osse  autip, sitey ssta.    ootessiss aen.. 
+Elpli les a y orees sstpesse  es  oree   sen dise se .. Lone  'isee sess sies.
+
+KORAT:
+Gole hiseer. 
+oYfe jus heeer is sore  aisss e.s.  epeeress . 
+oeeniess afteryins line   sotmeries. Yot piles sonessaine. bite  isse  ait y see .en.  Aomemsss ... endenes. soteryiss ioes  setinase..
+
+KO D': sime aiter. siss   inery.. Wuf iler.  setrere...
+SOke sisse .  aiterises aooter ens. aoleryidy halis  micelores  
+otc ioys sone  .s a  aneseis.  ot perse sen and tisned alinise.  aot  oissesre.. Yot e ies ..fins isisedeas.  onty des.  neneries..
+
+LO ayes. aientrine...
+
+OkE:
+NOO MOMEROWT OMG TT E TTT   EOT DOO TOM COME TTT DOT DON TOT TOT  HOT  TOM  MOU TOO TOTT MIT  TOT IOOE MOT GOT DOM THOT  HO'D SOU  OO MINO HOTT OTTCO E TO E TOI TOT DOE TOT EOTE TIT  OE TOM STT THTETTTOT  YOU THO LINO CUT T TH T TOTL  TO   MET  TOE  TEL  METT IOM  OTT DIT DOW TAT SOI   CT H TE TOT  OO TOT  TOT  TO L MOT  TOU  MOT  OE  OOT TOIE TTT  TTE  
+
+% epoch: #29, average loss: 1.4192988396995934
+d. .O   on yet   ited atr. 
+oo eell.  rissess..
+jot aonssirini.anie.
+
+PORB:
+Te m get yint.  Sone itipeiees abous.  Kose certeanes. Sisssales. aus   sesp. ies  ouss leas.a s s  ausa e. 
+AAD:
+Se laies aide ale s  .un  lemssite iates .
+ALA LAUERENTRNOTOOT T T MO  YOU  TOG GOM  TO   IO   OO THOT TOR   OT TIE TON TIO T OO THT TON DOM  OOT NOT IOG TOO YAU LOMO TOT  OU  OU L OO  YOU GOO  TUO   OO  YEU LON TOU  TOL YOO T YO  YOU  TOR  OOT MOM  MO D IO   OO   OO TOUM MONE HOM COO ITO D WO  YOU  TOR  OO   TO D MOU YOUT TOOE TOR GOO TOU ATTR MAN  IOR  AO TO   MO DO N MET  OU MOU   OR NAM MOM  HO   ION YOU TOUG TOT  HOM  OO   OO T OO TYOO TOUT TOT TOT  TO   TO   OON  MO E YOU  OW  A L MOT  TON  MOME OO   OO   OO  HOT  OO   YO   OO THTO MOT TOM  TOM YOO TAO T I LOM  OO D YO  YOUG TOR  TER  OO T YO T IO E YOU YOUG TOO G OOT YOUG TOR YOO TOWO TAT TOO TOO L M   OO TOT  TON  TOR  OO   OU  NOMT HOT MOM IAO MOO TONG TOT  AN TOO  TOR  TON GOU  TOM  OO   OO   MON YOU  TOO  OOM MOME OOT GOO THO M IO  YOU  TO
+
+% epoch: #30, average loss: 1.4163618040165464
+jutt  ote  ieter ie  sote. 
+one  aensease.  otoe itise  oes  foused   oc  ynss aetee.   sesteane . s l.. Iutaine  foteeise. Wollep leseoneeee  .  ot ienirates . .useres.  hlleries  otsed esstors. osteared  int.  iney ases moteelen  for es . seserees  solee ss relses.  ooee seane   aodelyoss sutsens  ronepess tinn s. .steptioy  s ted sedse anserale    oeseeye  eause . sisese  ss eige.
+
+oft  iinelise.  utee see ene s tertsi..
+
+hItho:
+
+onttelies souse setsrine   ooteriee sarplr 
+ W losser. ssses niess.   ot yilensiore.. 
+nutey.d asope.s s stsa.  ood e se  seteles  fured ie. .y.   eesiea s orce lin  sscer se.s   a fater Pencess troced. Soofeerel ass selerasse.  ut yice  toved aeseeains  suea   it pevt sines ie peaserire   aon  ied ioed sosse iens suse. Wit aine  in   oucenes ss.eses . oulteans  ancprase  sun . sen eest  never oiseed andse s tras . .un s.   heliie   suepeasa. ..  stees. Soneeic s st arens  aedepse  souted aen else  souted .  oteeele ssas.. Phtted ledsels.   orcedre  atee fao
+
+% epoch: #31, average loss: 1.4129190670415686
+Vecirice.  S uere esterite  ..  one aine    nn toit rie  inot..  ho  isestine  ouce.. yon togge tens fure oies..
+
+uh.. 
+IOEN:
+SARI TOU  OWN OOT  ME TO?  MON YOUN TYO D HOO SOLO DOLL MAM TOOA? YOO  OOO DAOO THO S DY ? NOM  ON  OOD YOO?Y YOO  OLD YOO TAHO Y OOO NOO  AO ? YOU? YOD  OON? TOU  MOM  OHO? 
+GO? M? OD?NOTYYO ? YOO? THO MOLL TAND YOO D??OOD?Y  DDLE? OODM?N ODN YOOD MO D MOO  OHO   OU  YOO  YOO TAHO MOO? MOR YONL MOO DON  OOL  MOO  OOO YOLO MOU  OHU? WO??YYOD? OOO Y OO  YON YAUR YHU AOO MOON  LAD? Y ODD? TOD YOOD YOON YOO D HO D YOO YOTE TOOL THO TYOO TON  OUD? YOD  ONO MOMD LOO MOND MOO SOOD? OON YOON  OON  YON? WOU  AOO  YOO MOND MOM  OOM? WOO? TOD YOND T ODAM O  TANE TOO DON  MOO  OHO YOON  OOO MON YOMN MHO? TO? DONT  OM MO DOO? YOU  TON Y OON  OOD TON YOM  OHA? WO?? DOO YOON YOO Y HO N OOM  OON  OON  ON DOMN MO?  OOL  ON?Y?YOODYYOODD WOUT YOO? TOO TAN  MOT  AA ??WL?Y?
+YOOL  OOOD YOO MOLO DON  OHO? THO Y ON YOO Y OOD YOO YOM  OMA?
+YOON YOOOY YOO MON  MOU TOO  OMA  LLI A????D???
+
+% epoch: #32, average loss: 1.4103813214752168
+u tell   ore site  is teds. as os dediesss sostr.. yoss.:
+Rule e:s isentssissa t...
+
+ARE::R. lor  ere aim e   a oue siets on. 
+LOE:
+TOAL:POT  OOT YOU  TAT MOE DOTN YOR NOY DAT jOT  MNNN TAT GOON TIR NOT DON  TON  MAT YOO MANN IOT NON  TOT DOY DAN  YON  HO LING YOT YOO  TYON  WAT  HOTL MOUD MORL NOND NOT  OO DING THI O DjO  HOM  NOT NWO D WO DOT  MAN DHT DIT D SO ? WOON  YOU  HA L YO   TON  MA  YON  TIT MAN DOON YOU  THO   YER  WOU  NOU  WON  NORL MAN  OOND NOM  MUN  BA   jOR  HAT  TOT  HA D YOO  CON THE O AN  IVE WHE   WO N WOT  TA L MOR  TOR YOU  MANT YI T NN TON OON  TOT jOO DON  TOT THO M YOO  HO L YOT  HA L NO   jO N MAU OOAN GOO Y N  NIO  TAN GHT OMEN YOU  TAN YHI OMAN YOU  TOO IAT OWAN I V  ON  HAN YHON TYE   ON YOT  YON  HA C AN W TO NONN TOT TON  YAN YHI OON  OUT MOT YOO DON DOAN YHU  THE G YOO  WON Y IO T Nj   IO M NO NITI WORE NOT SOUN TOR  TONO TOO  HOT  MOT  WORL MOR YOM  MON  NOT  WOO  MOTH NOR YOO THE  TAT YHIN MAT NOT DOAN HOU  TOR  NO   COT  HA   YO N NOOT YOU TANN THO  
+
+% epoch: #33, average loss: 1.4083784601644758
+Nene aloue  ron  ine  sins.  uot  ire iine  arteened len..
+
+DEREY:
+Tor  ane eite aus rrees. 
+oOk  ile riane  aslieisster  .isesril ... aice nall siie hone  neprere .  Io soie .soted yse arete, tissers.  onepare  .e ren...all... han .nse  sot  bins sse  s.. you sils  nise. yo   iden sase  rouredy. Soresode. set rised moue. alte  in toole  sote. yee t... uett iss ooe ...
+hEED::
+Or aolerale  aote iiesisaie siete nect.one. Pire  yod. Ihl ereeeisint dode  ies .aous iine  ain  .s.e.  are alese 
+
+JVERETE:
+Te se restl 
+outt tres oee eieeroue. 
+oleplens  ifuee less atens oonenere  rst oness ises lise..
+
+unes. you sare ielieed  toma ioder aed eute. yote.
+
+ELAR:
+Ou  ailesals ia iedees toneels. arotreis  iotee.se  etsears ieleen.  booroden sare  yon ssdes anaten't .are.. San's are sone.  hofedlet  aoderiess iranelstio r.
+
+LERET:
+Sur aices shreenee ooter lone..
+
+uE  ait  aiteride   are tise  ifterdae. Is sucer lese  tes  ort rolep fame  ale   oref iistere trudery s.  une  aise tocs.  hot lienp rre  
+
+% epoch: #34, average loss: 1.4060645897723976
+lineisst aite  inesi...
+AOL LL:
+Tore  ceve it aidse  iter.is.  Iu  nine asecos ..
+
+out  jore ic  tor eolarine  .  hrne  .areless.  etre oees  sone. tonetioe .. 
+oroe der hene.   ou hal  an  anerede  sine folie s ..ede. 
+oum  ite ar auneriase.  oot od en oe  le toere...
+Jouned. sainits iontestale. 
+oOE T ERUMERORG DOx SOR  IO   DON GON TTTTE MON TOD MOD   OT  OD  MIN TON D  N TO T DOR DO    OD MON IOO  ON GON   IO T NNT  MO TONN  ION  TOT T OD  ON  TON TON MON T OP TON GOO D EN   UDD TON IONG TER TEOD  MO T WON MON TTO   ON YOU  OO   ON   OO  ON   NOD  TOD  ON  HONG TOU MONGIOO GODN TOOD TOO TOO   OD MON G    DOD  TODE OOR TON GOT  OOT TOO TON  TOD MON  LOU  TOD  OOT  OOD  ONT NOD IOO   OND NON  OO   OON MON TOO MTON MON Y DD TOU MON T ON TON GON  TOD GOO IOO  TON GOR GON  ON  TOD IOO DO   ON TONN TIO   DU   TOR  ON  TON TOO GON  TOD  WO T DOU TON TET TON  TON  TOD IOO TOO  TON ION YOO D NO TON G DO N DOR GON YOOT TOR TON TTO  MON GOO DOD MOOT DON GOO   OO TON   OOD  TOD GOO   OD  OOT OO
+
+% epoch: #35, average loss: 1.4044428664646134
+juse  olme  tote   till aen yer? ais rerk s a darelilire .  ord. sine.  in  ente ao aydueed ta  hote  
+on serd aliner. KAs  tisher  ater asiss soos  ies.lino...Kounec lene.
+
+KIt ispert dy  ane elsea io sines soine ssen .s.s..
+
+MIRAE::
+Ar  dide, let se to e  e tiolinati s . yusi.. il yrorels.
+
+MRRAKE::
+A sh cate   a hince  tine aiene ties  aonerory. Wele, ie see tetmened arone  wots  ses  wot   tored. a ereldr in  orterira. .
+
+hERBEE:
+Tem  iiea yine sitt fite   ons ore. .ole, sone. lines  e se iess  aees  ane olileli  . te lier. 
+out yinensiaile... . utt ress. Yes sis eesir sesse 
+
+ORIE:
+BO ER ETT O MOOO GOT DOO  MON TOI DOW DOI TON  TOT TOM  TIN TTOT MONT HON MONDYYO DANN TOT DONN TWO DOT DWW TTIE TOO  TON TONND  O DONN TON TOOD MOOD WID DOOD  OUD WORD WOL YOO TOW   OO DOM  OON  ON DONN TOU TOT  OO DONE TON YOU DOWN TOT  TON  OON  OOR TON TON YOON  OO DONE TON AOO TOT  TON  OT DOWN TOLO  OO  OOO DONN TOVED OO HWWO DONN TODUM OOT HOW TON YOW YOUN TOU DONN TID DOL  WO  TON AON TOW  OOD MO
+
+% epoch: #36, average loss: 1.40559150955059
+K yo  Cote sir  .en .. toneersine   at seiress doln saredecres  ailed a  ooted oirepait. nineirie.. 
+onet le eioeloci trons ointesosre arone omans...
+not . iehenoryes. tooeessesolterse . abone siote ce.  oot oone.  ben y tenie  toote  inttrine .aetioned arone  aenoeiee. tentlred yarieter art ly.sast sist.  
+outee aaoseltse...Kole aies  iec  ost sotoroce .
+on ere  ie  oine. ahet lint tettlare alotride oileeries fontes leat fatels. Rinerias painesteanediels tel. .inecore  ioneys indiredsed  int sneceredyos.  oont otedsyttioled aroner lent oieprane  aloioms sneys.. arene s onieeds s anes. dereriies sare airestiles. tone  itedote sant  ane outiol psers areerert parterins. .ale tine siece  tay  sile. 
+Ione oin  are sunt out our oone.tie  .oned. a tesde  isese y er sole  titelees.. I toine  itt our ooee otrer toteroi. .. foneels trens lies. hetepord ont  ine sive  tint suettlins pure ose.  a teocep...
+
+KINTE:
+Iim  are her  lies. Ahelelicedert ote iiroricar...
+
+noeeles ioneesees. .uoutins...
+
+
+
+% epoch: #37, average loss: 1.4025356253997863
+ mori a. th  iese..ai  pie tise   oce??
+VAR IOR:
+MORE  MOWE PIT  TOTE LIN  HOT  ORTE OMT TOS  HE DOL NTEL TE DILO DONT YONE TIT  LOT  HO H T DE   OT TOT DEST TOT TOO T T TTHT LOOD MOT WOF TAO E UTET LDUE MOU MOL  TI  TUR TELL MI  THR E I OE LOLE WOU  ATT HOL TAIL  ILT HOTE HIT TOF N E HTE   EOD WOTT NI H FO MOT TAI WET DAM  HI WIL DOW  TIN  TOTE TOU MAITE OOE TOVE WOT THI E U H WO L EO EOO  TONT HOT IOT ENI DIE DA T TE OINO F NDE OTTETOCE TONE TOT TOF  TIL  OD  TOT TIR TTI  TU  TE TELL WO   OOTH U  E L LILE MOT TOR DOT DOSE LOT TOF   IET TOS  OOT OTH TOU  ADE MIT TOI E ILOD IALE WOL  TOT  HOTE CON  LINL MOTHT IUE TIE  TO   OOT WOTN YIU  AU O E TAT   WOR TOUT TIT MOR E I OT TOL  OOD IOTE PIT  COTE OIT FEVE TIT TOF EHI DOL DAWE TON  LIT THI EOE DIOGOFE DOT  OITEDD TON  COUN LIU  HOT  OIND MIN  HO EOU E TL TO D MOT IOR T TCED IOTET DEE IIT TILL IO T LIN WOFT TOM TOK EDORETH LO L OOT OTT T L FLL WIO TIN  THT MES TAE DIET TO T POUE COT  OW EAE HET H WO TOL  TIT TOR YMI OTE HEN MAT   O  TOD T
+
+% epoch: #38, average loss: 1.4031839445578025
+os ie your ane stodint  ahet site  aie taiver. isesilee stide taded anoteel  aitele. to tress aineed redees aed orerisese ate  .  enleey  ist rise asen lyok sine suner yed  ante. I th eity todi ate arope  tisitssase... Wo le ied tntc iun  tiden . ferrynse .. 
+une nile ainectide  aht eiae at ardeeeen'ss then den e ieesosa...
+
+VIRER:
+Iotyscad a e peedery a  iole. Heri  ire sise ound aul  ule a.e. Tor seileraier fit   unnes.eari. doniteee ase t one  uerenine sidee.  wunt  uicase sa seudenies ssnless. .  Orenois ss te tirees asnnedsiare..  sortese  ounereds aroen.ined  honeer diee.. nurers asenes asseero... aheredeneee.  aneroue  hese tonne ien:. iusidenenn.  auteriles soned tod  you. 
+KVfe  aenasales st  hindenes  osensalent. nete  it e.  hone ala aneteene.are:
+
+KAR  IA Can e dre iet  ate. ise aronen lestes.  Ohe tetterieene alotiride rs. .ist siniers sins.  encrece nels sse   ute iis a ore. .ive  itere tins. Ioseecione  ieter aisterinese 
+nle iineererededis  anereds atdared tiottes  ine..
+
+% epoch: #39, average loss: 1.4030011542554996
+ept tinn  hen rireer asire jister   in  sondred time anereres   ore mastersa? .
+
+
+LEER:
+Io   ale, nen meee ail  ate tile yne eeleeanese  snen ies arineliees y e.  inites  iome?  nn t ne  o e en oor aile  is haniarees   s sent anecer iestere san tase ele and tode ase saeeialiee.  aregearide ti es lict as alued lide. 
+nORITH:
+Sin  aime same is, arsolosedet a oren aive   res.
+
+DONN Simcelredstsn henise    feelirise estlees.  oneea es tid eee a manelese? 
+hoseeten setter    tetises arnelared  in leri. . suray ine hess sne hut oale cniperey she  astelaline.  rretesied  
+Sn yoie nert .ite are a aetrerian  areererss? t y seined ficed aoteesee 
+
+St herrer aitt ane trest aainy sainasya ine s ar  aice orede  nie darner aise hele teneine  aicior   it sesseale s en  oice sene s tt  hesdene..erirs aree is eeserie iy  het hort tude  sing nirn sier  tade eit riged tind.
+
+MENGYO:
+Tur, Mile  Ie  tis dore tettenine . ands ald yoterind and yone  lene aod herser   itmo ienss sonidssain  riterelerene  .  nt
+
+% epoch: #40, average loss: 1.4037639447301555
+xP.
+
+LINT HAM SOORE DIE MOO TOORE TODE TOTE TIDE TINT TIOE TODERT E O DET MODE THE TIDE  OT GOTD TODE TSO GERR OI E TODES NO TODESTHN SOTN TIE TLER  COTE TODE TIR  ERT TOOD TOOD TORN GIN  TOT  OOD TOR  TIO TER  TODE GED TOOT T IE TEE S ENE OODE TORE ENT IESETTED EOOC NODE GOTOS OT  OOD  TONE TETESGET TET  TIT  TOO  TED  OON TOI COEN TIO  EE ETODT TOOD MENE GODE TETESORT TOOT TIDE TETE GITE GITE EICO DETCDESE DODE TOTESTIEL  ORT GID  TOT  TOO TOOTEROR  TUDE TOTE ORN TOLE TOO  TODE GOT  GIT  OOT  TER  GED MON TOODE OUD TOO  TOR SORT TEI TED STEE  UDE  HR  TOT  TOD  TOC GOOTETER  TIDE TOO GORD SOOT TOC  GODE TIT  TETE GET OIT  TONN TIO MONT TIT  EE  TORD TIO  TETETOO  TORE TIT  EET  OE  WOL  TIT  EEE TER  TOR  TON  TODE GETE EI  TTRR TER  TOO  TEN MIOT TIO' EOTE TODE TIT DONN TENE TOTE TER TEDE TOT SOND TORE TID TOO  TON  TIN  ER E OUD STRET TIDETTR LO E TE TTES TENT GOTE TOE TEEESTEET  ERE TEDES ET TOIR THORE TODE TORE GIE SODN HOT TEOT TORN TOOT TIDE TIT  TINE GET DOOR TIT' TOOE TONT GOD
+
+% epoch: #41, average loss: 1.4040845926795231
+pss yest ise aiter linse  aated are sstee .
+
+IANA:
+Iuttare yite  a ete eid oet a tap  
+oue  aeteniin sean 
+
+xAN:
+Wo  hic der  ott fite aiteress? Yen  is hejee  for  soder  aenen.l diseer ls tenesessee eintriee ees. areere sed. 
+SORD:
+BIt   ce  tit?  bt?  I    te   auce fint  aooked 
+afees ierreess aied? Yoner rerted tadees 
+LORS:
+Yesler   ine  aroe? aime?
+
+LERD:
+A tarinls ?
+
+YREE:
+Do est ase   tit? aie? uide fises anoted yotelyete 
+
+LRED:
+Ittaaie  oot hime ait . 
+IOfe ie t oneden  e andreer  aure? 
+
+Ane sianeeer  ieerene:
+aiverissery. hert int oite aieetenty  
+oute tes airt  iess foede tersyese 
+ettenely s.aes sines  ares len  nere  aren  iee   atest  Oret uie  ane?
+
+HAN 
+YARMIN:
+Hora .utte s ar  yiti?a
+?  ICKA:
+Ietc ine  wal? Bot yiul  . . eep yele tie essee  aid??
+
+KERBEN:
+Nore iener  yose fa?  De? 
+iAN:
+Foss ie heme?
+
+FREDY:
+Some tor shine.  ooner e. some  aote  iett.inese alenes  eere  aver ianiee   anafer oot.  oun eieer ren.  Aome aient inede e 
+Jeeee sentraleeer. 
+ALAN:
+Iore ile 
+
+% epoch: #42, average loss: 1.4031695230145507
+UD  RONEY NOC, GOO  TOO, IET YONT TIL   NT THI TT T THE TTR  I T  TA  HN  MOT TOE  TOT THN THITTT T T I ATTT WOIN TEN THA CHN  ONT HIT TOI  TON TET SOR TIN  TED MTAL IN THT TIT TTE TIR T HT THI PTTE  PO  TIO THI TTIN  HIT RNIT TOI THR  THO THE  aHO THI TINLT RO  HPE  TOTET I TTHI j I TII TII TT T T T   THO THI TTINTT IA  HNT NINTT NT THI T I   HO T HET  OET TIT THI AT O MON THE NTT  T E TOI MIU THRO THI T EE  HI TLTE THE THT TTI  TO THU TTU  ThI TORj HER TTI CO E IN  MITG jIS HAI THI TTI  THT TOO T HO jHO THN TIRT T T TTEj TTINT HO  HIO  IIT  jOT YTAT ThO THI  THR THI CINj  IO L NET TTU THI TTIT TO   WAV DOO  TET THE SHO T EER THI MIN THR  TTO TOI PITT HEA YOU. TCOCT IOT NOA THN  THO THI CINT TOT TOR COU  HNT TOT THI TIN  jUT TON MHN  TAT TTIN THE TUY PTRI TYO THNT  RE THI T IOR  IO N NET IOR  HOT TON T UT THI TI  T I T HO T IEA  Th  T WN ETI   TEN THE RIN THNE THI THN TTRE  TOO TIT THI THI TINT TAU THI AILT TOT TON THI SIL THE TII THU H ANT HTOE jIV Torj  IO THE ATAO THI TTIT THE TITTT
+
+% epoch: #43, average loss: 1.402192670117845
+G  eo eelea e .   ell me ted tine  inde do ired. Pone.  areymesesee s. .y sioul.:
+Ih  ant yoen seredite lole 
+
+JORE:
+Io eaore lins  reeredeelyiser.. tiaterate ..
+on rela e aret  aitees ittore aoner  Yos are   ine  ore anseer. . hirlined. Potdsiod fined. 
+GORE:SOE'MT TTE TOO TOR I TODE TTTTTTETTTETTTEAT IOT TOOE   TTTTTET T T WOT T EER TIT TOTETTT T W TIN TOD MIT TOR  TET TET TTTTTTT TON TIN TOO MON   SOT TOOT TOR  OTTTTOT  TER TOT TONETTOTTTTTT T ENE TIT DOWE GIT TIETTHO TET TET TOO TET T E WON M TI EDETTTT T TETTTTHTE TOL MAN Y E MIN TTO E WOO GOT THT TOT MON   OTT TOT TOT GONE GOT TONTY O G T TET TOT TOT TOT TOT TOT, TOR TORE GOT TOR T R WOT TET T O MIN T OITE OOT TOR YOU  TIT TTOTTTTTTTET T TEN TET TOR TON TET T OEN TTE TIN T T WOT D TE TIT TER TEW TTI TIE TTE TIT TOT TOT TET TIT MOT   T WTT E TIO TIE MOT TOO GIT T TIT T OOT TOR TOWE T TTTET TTI G T TOT TOO TOT TTOT MOT TORE T CHE TIN MOT METT TAT DOW MOND GOT  OO TTE TTETTTE MIG TTE T WOT GOOD TOR TOTE OOT TOT TOO TOT TTTTTET TOT TO
+
+% epoch: #44, average loss: 1.4038222713531592
+knn   it cled te  its aice  tone? 
+IOO THIT  WONE YOS YHE YIOBE GEE THI WIT T E WOT  TE T E TIE TTE TIO   HT CHE  TOL MOT TTE  TOW BEW TTE MIT  TOK  TOD THA WIN   TOT TOE YOU Y H OHT TTT TIT T E TIO  TOT YOE ETE THE TYE TEO YIT T H.T MEO THE WIE T E TOT  THO THER  OOT THI COE THE TIO  TET MOU YOU YOU DYIO GOT T E WOT   MIO  TH  TEE TIT T T T HET  TOI TOS TOE THE THI TIE TTE MIT TTO BY E BET TOO YOE YOO CHO T HE GOTE BE T BED  T T THT MIG THE TYT A G O D O CIT S HI DITES OTT HES WHE TIE TIG TTE TTT TTT THE THE TIET TOR YOE BOE YHU YOO T OON  TOI THE  TT TES OOBI TTE TIO THE WIT M YOE YHO T H.W TOT YOO YOOBE GOO  DON YOUT TEOT HER  HT TBE YIE TIU  TOR YTE   TEO THO TIE TTE TIO MIL THA TIT Y TAN YTE TIT   H  TOD TOT  HE TIOET H   TET YOU YEU SIO T OAN YOOD TOO  THI  IT Y T T T WHE YOU E GOT, MORE HIE THE TOT M A K OEN YIL LOU  IE TIE TTA WIE THE TYL A DAN TTE YOO TTI THI TILL WE E THT THE BOL  TE LOTL  GA  TET THE MOE TTH TTER TEA TIO T E TIT ATA BIE TTE TIOG YOT YTE NOT T I YIL M E T TOOB
+
+% epoch: #45, average loss: 1.4048662246238157
+Kalle tide   hon   in you 
+?VIYECE THE TTOE TIN M IAT T D I MIN TTEL  TER THI TILR TOR TOOEY T I I OON MOU TES EELA WOR I OTYTE TIE STII TOI TTI T IO  HI TTTOTT TIT MOI TOO S TIT MOO  WII MOND TTT TILE TIS TOD MIIE MET Y MET  THI GOLL MAN MEE TIE TTIL TEN Y OTET T O O TIO TTUS TOT TIN TTI TTTHE TIE TTI  TH  THE  TTI GOO S WIT TTO TITE  I  TIE TTEE TIN M T  N ICO DITT  MI T TOI GOOT TIR  TOD GOO YON  TTIT WES TIETT OET T OTYTTHE TES MON TTIE TIU TII M OITTTID TELL TIT STE T WE TTI T I T OTTT FE TIU TOI TTSE TIN MON TOO S OOT GOO DON  TIT MOS Y TIO TOT  TSI  TIO THO HI E TEN  TOI THI  WOLL OOS  EUT T I WI E TIE TOO T I D T Y E TIO SIOOT TIT T IEN TTAT TOU MOT  WID TOI W NT WEE TTEI T U Y TES MET MOOT WTI TOI S W D E T E SIL MIN   TIU T DIE TTAD MOI MOT  WIR M I   IVE TTIE T O MOO T OET TID MOO TOS W TE  YIS SOU TIS MANT TTI WOLLE TIE TTUET TEO TIO STIRT WIE T TI T T T I OI T IOT TOOT TOO THI HIO  TIN S LIT I O N  TTIS T IAT HOS  TIT T I TTOTSTTIE TON MOS MONE TIT G E T OIS MIL THE TIT   H
+
+% epoch: #46, average loss: 1.4073519050271461
+mee  Wh soae iss teeter aoreshate..
+
+AORD:
+NARE ERT OEATHTTE HOD  HOME HITE HOK  HIC  OO   HU HOL  TOTT THT DOME BOT TOO   HOT  TO L HET  OMD THR  TOK, TOC MOO , GOD WOM  TIK. TOK  TIC! TOM  OI E TIT  EOD  TE  MET TLA  TOLAMTILT WOTE OOT MHI TERE TIT  HU E TOD, TI K TICL TEC  TER  TICK HET  TORL FEC  OI E TE  GET IOME TOT. FOM  OOR  TIM. HORE HOK  HOC  TOC  II EON   IET YOME TOLL IO E DET YOMR  TOG MOU   EL  LLD TFRT THE TIEL TOT MOME BER  TOR MON  TOD, TOR, WODA EOT! HONE HOD  TORE FOK, WEM  FIT. DOM, HOC  TIC  OHT  KOKT HO  MIM  OOLT FE  IODE GOR, TOM, TOL  WOK  TIC MOO   HK  WIO T OOD WHO TTEO T HA  HTL TOOL TORE TEK. TOD  OMT   OM  HOD  KOT TFUN  HOT THE TOLL TOT  OMT LOT. BOM, OOC  DIM  OI E NE  YTT COMG OOT COEE  OTSE OOT GOOO HOT  HIL  OOD  HE TOEL MOME BET TOM   OT  HE T EOT THE , OOS  HOT  HOK  TIK  TICK TIT  KER  TOK, TET  FECK THU  TET IOD DOME TIE  TOS  OMT HOT  TOK  TEC  OO E TOK  TOD  THU MOR TLI HET  TOT  TOR TOT  TOL  THD TOME  OOT TOLK THA TIEL  OO  IO THE T OL  HUR  TO
+
+% epoch: #47, average loss: 1.4089615346705289
+xCA  W lA  
+ WAL MI HINK  I DO NI H TTT CMC  OON! MON, MOM, MOGE GE   ING YOTE HIRE GIAL? MI D IN TETT! 
+OOY GOND MOOD Y!IDE GIO  YIOD HI H T?D COCEM?  OS EECO GOT, MEED EE! I CHE T! CAMING TINE TOT? TCOLE WOE'TYOND MON?
+
+ISO AI WHI?
+
+MAG F TA?THE T MON, MOT, YOU, WIMH HET  HI E HIR TTR S WICW TOWD GOT? YOU? TIDE HIT  TI EING YOW  MENHT T C NO D 
+GODE HIND YEMA YITH YOT?
+
+IET HE??
+
+MA ? HI?D HEAT MI H GE T TE PINE  GAT?
+
+MACAN??? !GELPITET Y? ? NO EO N  NOLE OE T LE E 
+TOGD WOD  YI H IE?  EES? GOD? TOCE GE?? YIO? YOS? YOM? NO E MOG, MIGE HE? 
+TI E TERL WI HI WI GETS? YODE TIGT MOG T GEGTN N O 
+COCE OI L GEO WIT  HI H YI DD NO??! CONEN? THEE MOTHE GI E TOWE MERD AG  T T TH G MOI  TC  WITH  ES  I L?
+TTE?TY? W NG DUNG TERE  IODD MMM  GMG  II   OOD  TOT! MES INCC IO E GOOD YEOD TI H  GIEW TOCE GIT FICH HE D HE WITA?DO NA D? WHMEN  TTEE  WOCD WIMN YIED WEOW? GOCENGO D MENG ME   TT! YOO DYOT  OTEC MM   TM E?
+!ICE GIT! HE H ROGH GE?, IICE GIT ITED  NCE INT? II H NT? !ICO NITH HET IT C WON  YOA
+
+% epoch: #48, average loss: 1.4083319349537526
+re yore  Hen  aue rase.  oin ined aieed dicaderels alass aises de .  tele ais. sonerrsy  .sner.  witee tume  sse. gune  lone   are tude  aite. lenee wl d  wiree tidhe iette fese  fiss.  ir  oseenaie ai tore  dire tiri.  A lt tsined aod liee  ir  oide. Ooe serced ain e  sin  itules ie toaky dest ar. aederansed aorcs, sute.  ond  isep stire   aunpe soneeolees iiniersi snltl lene  uie   see rine  aom  ides aoersalye iend.  Cullees  ates fren salee s alais, lutere talle  authral .  all   deys  sesd iner  iiep iti aasee sitt ses  tine lat merd afcred eeraoorela.. Tes,  all t ess sitcsert asoct les i   introlel  
+ures asy moneea aincs gese aid resis tiles asser ass ress aiy medes  Won  askingiest ticterel .il  Pust, seve ted aire aueneraless askieicil.  roner lese .  on lens orcerase  .usei atise  is rrise.  o th tees  sule  tulp rai aid forts.
+Konees aateleds are arded aise 
+Ia  ?i tite oole.!
+
+LIN:YOUT TARE GOK, IOE  TOR  TOT GON THETTI E EOOTIOET TO TOOT THE TOE  GOT  TOR TIO  THE TTEG ING
+
+% epoch: #49, average loss: 1.4110999115764582
+xectent aittess tosieri ess sescianers se eise.  Lelt on  smme tined mives  ielt teetilee siser. aeeseses  aeeerrest  sceetsme sist one s.
+
+MIN:
+SAAP TOA IT IE EIL TOE TOOL THO TIT'MENG EET TTORE TIOLT OTTO EOODE WOO GOEN TIO  TOE TOE THO TET I CON YOE TOEL MER  EES  OEOTE  GOOD GOO THET HE G TOO MOO  HOR  TER THET TER TOOE THE TIEN TOR  OER TOO  O GHT OT ET TOT TOEDTERETTIOT THE GOT  HOR THE TIEL TOU T E SEELM  E S E DON SOED HEMENO GO E TOOTT ERT O THTO TIE TOOD THE TOLT TOODY HI G TODT TE   ELL MEOT THO S ER HO HOOL THOOTTTE TTOT THE TET SI OHE TOO THE  TEN  EOO TOODD IO EOT E EOT THE TOT  HON  HEW TEMTHET HER TOOD TOO YOTO T THE TIEG HOOT TOODT OOD GOME OOT TOE  HER, GAT TOOTSTEST TOL MOO  OOW MON  HE  TOENGHORT HON HOOT THO TOLL MIT  ERO O D OO HOO THER TOE T N SE GELT T OT THE TOOTTYOOLE TOO TOMT GOO THT TOT TTORTYOOD THURE GOOD GIO TTEOT TEVE OO TY OTT OED TOO'T LONTTOE TOE  GO   OO TOE TTECTTHE ME TTE B E TOO THE TO N  METTHO GO DOET TOM  HER  TOC! HIT TOOD TOO THELT OO T HE TIE
+
+% epoch: #50, average loss: 1.4119401971432846
+R E teseered  iteas ee  inoreetir a.ssase.  KOll iemates  trales aary.
+Iane alenelyss sy lec  iit   is pinestif   nonreeee. iitlssse.  ill s ti ted tincs anvers:
+
+uleptes y samsl ase ause  ais  More   res  tene. Illepoanelys   puler. . ssar.  Af . entsiines ancteene! Pidere  eise sict?  irds     ame ts sted  Mispraids.  in e tred ase issides..
+Iu  ssere. O thint esele sint  oie . yep  ter. yon ais rille .
+sel nicers e.
+.anils siste. .olmen  Kutesested. Ye sent.  Sle ite  ast  ite tion s re sod rises  allesien iitese t. Beller sa eeles sadees ane sunee tonareas  
+is. ate   dse'eett sen  inse iies. 
+otla ifts aost sistion.
+
+DANDY:
+Teta alr eregeatee   issieeres Oasarrls...
+he . iire aiderinse sileres     os  tede .  ie itt pale t mell aiee. secorety  Werl cent oreesi  .sss ris  ee  iunerriee.  ice   inl te e  ise sestine  uss iente  ... and 'e e  dimt mest 
+neterite s arala  narg  oess seat ais aif .  ote tints s.
+
+MUME:
+Tht  tte sel   s tued ispreases  yises.. yeriyt serger streer itemca
+
+% epoch: #51, average loss: 1.4157829765463308
+KiVI WALL  EN T ONS STOjE HEE TOUNE YOE  TEREIN THUT  CICHTE PIE ITHET TIE THINT NETE TOE YOEOM ISELE EIE  TOUE HINE  TAAT THNE TIN THETT MOT  TA T LOE  TE LIE M?E TTEIE THE I EIE  TEdTIE MINTTEF TE TO TO E IES IINE HIME IOLE YIN  TUDM TALTEETT  TEN  EIE THI   HATE MAN  HONT YEU  WI E H IEE SOE THITTENE TING  EIE  TOFT TE jI kH?
+
+INE :
+IO TENES INELINETEN  MINT IELE TOE SINNTE OO TOO  TIAT HORET IES IEES II TOEE THIE THE MTELE SOE SANET IIMOTHI GON  TERT IOWE HAE THAFF YES  OAL MI HI GAN :
+LEAL HOS  MONE TOIE LAISTHINH IOW  TE TINEM  IA TEER TAI TEREMTIIL IE  IE FTEFT HET 
+
+MAN I LEEN TOIE THE TIELTINI TINL NETT BEE   ETO E ? EIN  TEIE NET?I CIEL  ENTTHNE  TEN  HIET HE TIN SEENT HAE  IONE HATET IE   IEE THET THIT THI TINO EONE TIE TOUE TIET TERTING ?UED IEE ITECT EIE MCINT HIR  HILE  ISAT? MINE TOI MEE T ENT TIEET IEET HERE HIUE TTIEMTE DOE  THI  E CORE TINT TEITHTETE THE MINHE MSE THI MENE TEI WENR  WOIDIT INT TONT THE SITBE O T IEE THE TITHETHIT THI TONE  EUA ETE II LECH TIT  TIECETES
+
+% epoch: #52, average loss: 1.4173419901612985
+LaC. Iotm a en deren  ie..  ol  het a tes andter ss a. sin. ait .ases core irte iaie.
+
+MANTO:
+Tile tit aily to sea te hire.
+
+MONLY:
+Tell ist hins ar yod  iet hine tis  arce aid i thyaeten  tha  it diedere iiestis....and  is soed as  eli ine ..ile si sised tore.. auct ieturide tord  .a ylale  idi atreed lire. alle i t ald  et sirired iins a e triet toter ase tors iftyne stupe..  oun riee aon. tolo te . yie   are ain aottl  ore.  Sen aidte tie.  are    ts  ied yor. 
+on   oe w aty net hy si simp? 
+Al?
+
+IOCALRA WOr   ih   th   ur  al? ?   atth  it? Mare ietini tod 
+
+oue   tue ainde tone.  Sen. iere ais  ime al ee  ites.  orn aerty oot eettama yts a iuy sore. 
+Suma itt  imes seen ane siat rull. fis  aite ttin you seile titer tse torse itsperit...
+ n taik  esleed tom ? 
+hou sir   fiuce  tor   woll   lete  tor ainie temepeioe. 
+ieny are y a tolde totep tie  hone   Vrole  toten tsst. 
+JAE  oo aand a oiteriess ere  tiea tomereia ....
+mn  sone  iay bide tins  aites atd med. anterate  ill   sene. 
+
+% epoch: #53, average loss: 1.4227434463147401
+et gon aaner ..
+yo toot.
+
+
+IEES:
+IA Tar,   oreed mateicei. iese  iet  ben  tile tiss.
+
+KANDY:
+Temey  in e its  it  yor  aied abse hit wers? 
+opupsens   in tiore tituy  youre: .ono. .ane e eet ine  srtcreese..
+
+RARD:
+Tode oid air  a t.
+
+HUNSY:
+Tume teate?  el  aret  aeteyns.  one  iotel.y. 
+orn. rontlore i..tens s..
+
+oOr  orens io s.
+
+KOR. :ANDaR  y nes  ayas  oute aitee  s toaor. aire rteer inersare. .iufer ty s.. ankete.  s rny taleli..
+
+IANDE:
+Oeme.  oe  hell  aot  ie  abt  tas   IKtorel  aucoer la. 
+
+EAD :
+Todean a n teleeses nt.:
+KElbiney  aut a t e ain . nseren.l.ts  orfelent.
+
+BURDY:
+Teme tin he stary...
+
+MANDO:
+Demes. ste y.  SINGS:
+ROMT 
+RLYNT ROW TORE TORE TIRT TONR TIE TIELTCE T HIR TTETT TINTT HINITONSEC ERE CONI'L kELT TO  POU's gol  Der  iut sees  boo  iut  ior dsarales ..
+KAA  oer...on... 
+Sy gore   itthile. Tomy fieer  sote otera.  
+oupti:
+:
+APm Tare a.at.  .. sithine.  Yon oitre..e:
+
+FON:
+
+AR:
+Mar.. Alateies ainare tire t furre   aeceiel. soe  ire. 
+
+YLATx:
+Tera a d se w
+
